@@ -22,6 +22,8 @@ DMX ADDRESSING:
 This Motor driver uses 2 Channels of DMX (1-510)
 Use DIP switches on Box to choose your DMX START address.
 this address willbe initiated & retained after power cycle.
+  here is a good dip switch calculator:
+  https://www.laserworld.com/en/laserworld-toolbox/dmx-address-setting.html
 
 Values in 0-255 (not percent)
 
