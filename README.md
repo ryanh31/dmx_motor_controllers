@@ -19,9 +19,11 @@ Box power supply 9V-12 DC tip positive
 Change fuses for your Motor needs.
 
 DMX ADDRESSING:
-This Motor driver uses 2 Channels of DMX (1-510)
+This Motor driver uses 4 Channels of DMX (1-508)
 Use DIP switches on Box to choose your DMX START address.
-this address willbe initiated & retained after power cycle.
+up==ON
+
+once adjusted, this DMX address will be initiated & retained after power cycle.
   here is a good dip switch calculator:
   https://www.laserworld.com/en/laserworld-toolbox/dmx-address-setting.html
 
