@@ -46,7 +46,7 @@ Light cue to move MOTOR 1 forward at full speed &  MOTOR 2 backwards at half spe
 Ch9 @ 31
 Ch10 @ 255
 Ch11 @ 63
-Ch10 @ 127
+Ch12 @ 127
 
 
 
