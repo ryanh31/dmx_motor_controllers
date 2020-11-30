@@ -5,7 +5,7 @@ dmx motor control boxes
 DMX DUAL MOTOR DRIVER BOX
 
 r holsopple 2020
-Ryan.local@gmail.com
+
 
 DMX receive ch 1-508
 Box Fused for Motor output 1-15 AMP
